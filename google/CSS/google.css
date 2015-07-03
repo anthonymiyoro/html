@@ -1,0 +1,22 @@
+ul#header li{
+	 text-align:right;
+	  display:inline;
+	 
+}
+#body {
+	text-align: center;
+
+}
+ul#body li {
+	text-align: center;	
+}
+ul#footer1  li{
+	
+	  display:inline;
+	
+}
+ul#footer2 li {
+	
+	display:inline;
+
+}

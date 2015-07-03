@@ -1,0 +1,73 @@
+<style type="text/css">
+#header1{
+	padding: 25px;
+   
+}
+#h1 {
+ 	width: 370px;
+ 	float: left;
+ 	padding-right: 15px;
+ 	 background-color: red;
+}
+#h2 {
+	width:370px;
+	float:left;
+	padding-right: 15px;
+	background-color: blue;
+}
+#h3 {
+	width: 370px;
+	float:left;
+	padding-right: 15px;
+	background-color: green;
+}
+
+#center{
+	padding: 20px;
+	
+}
+#c1{
+	width: 760px;
+	padding: 5px;
+	float:left;
+	background-color: white;
+
+}
+#c2 {
+	color: white;
+	width: 420px;
+	float: left;
+	padding: 5px;
+	background-color: black;
+	
+
+}
+#footer1{
+	padding: 20px;
+	background-color: purple;
+}
+#f1{
+	width: 275px;
+	float: left;
+	padding: 10px;
+	background-color: blue;
+}
+
+#f2{
+	width: 275px;
+	float:left;
+	padding: 10px;
+	background-color: white;
+}
+#f3{
+	width: 275px;
+	float:left;
+	padding: 10px;
+	background-color: red;
+}
+#f4{
+	width: 275px;
+	float:left;
+	padding: 10px;
+	background-color: yellow;
+}
